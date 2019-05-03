@@ -1,7 +1,7 @@
 This repository mainly works for recoding Zihua Liu's paper reading.
 
-***
-**2019-May-02 Thursday**
+
+## **2019-May-02 Thursday**
 * Journal: Cell
 * Corresponding: Ling-Ling Chen (Shanghai Institute of Biochemistry and Cell Biology)
 * Online Date: 2 May 2019
@@ -10,8 +10,8 @@ This repository mainly works for recoding Zihua Liu's paper reading.
   * ds
   * ds
 
-***
-**2019-May-03 Friday**
+
+## **2019-May-03 Friday**
 
 * Journal: Nature Protocols
 * Corresponding: Kevin M Weeks (University of North Carolina)
@@ -20,6 +20,7 @@ This repository mainly works for recoding Zihua Liu's paper reading.
 by primer extension and mutational profiling (SHAPE-MaP) for direct, versatile and accurate
 RNA structure analysis](https://www.nature.com/articles/nprot.2015.103)
 
+***
 
 * Journal: Nature Chemical Biology
 * Corresponding: Chuan He (University of Chicago)
