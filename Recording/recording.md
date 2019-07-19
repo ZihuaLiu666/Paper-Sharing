@@ -10,8 +10,6 @@ For the first time, I used the original qPCR primers and standarized by GAPDH an
 
    * no differenced between GAPDH and ACTB; 
   
-   * the original qPCR primers are not specific because the peaks of negative controls can almost overlap with the experimental group.
+   * the original qPCR primers: the peaks of negative controls can almost overlap with the experimental group and I suspect the existence of contamination (**Actually, I would like to try the original qPCR primers based on the current RT products tomorrow**).
    
 Then, I reverse transcipt total RNA by AG RT kit and qRT-PCR kit. The results are amazing! The melting curve of each samples is pretty clear. Actually, I set four replica and three replica for expr and nc, respectively. No difference in each expr replica. The KD efficiency tendency is similar with the former expr.
-
-Actually, I would like to try the original qPCR primers based on the current RT products tomorrow. 
